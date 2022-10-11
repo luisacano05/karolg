@@ -1,0 +1,12 @@
+.zoom{
+   transition: transform .2s;
+
+}
+.zoom:hover{
+    transform: scale(1.2);
+
+}
+
+.fondo{
+    background-color: rgb(224, 202, 235);
+}
